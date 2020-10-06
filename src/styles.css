@@ -14,6 +14,7 @@ img {
 h1,
 .h2 .dayTime {
   color: #790a2d;
+  margin-bottom: 0;
 }
 .temp {
   margin-right: 15px;
@@ -46,7 +47,9 @@ li {
   color: #790a2d;
 }
 
-.dayTime,
 .cityWeather {
   margin-bottom: 0;
+}
+
+.currentLocation {
 }
